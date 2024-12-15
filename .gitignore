@@ -1,0 +1,5 @@
+.venv/
+*.ckpt
+/asset/*
+*.pt
+*.pth
